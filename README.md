@@ -21,7 +21,7 @@ A web-based application to visualize various sorting algorithms. This project he
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://sorting-visualizer-mu-red.vercel.app/).
 
 ## Installation
 
